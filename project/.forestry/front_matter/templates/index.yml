@@ -17,4 +17,5 @@ fields:
   label: tag 1
   description: this is a tag
 pages:
+- project/_posts/_post.tags.md
 - project/index.md
