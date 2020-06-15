@@ -11,5 +11,10 @@ fields:
     schema:
       format: markdown
   label: Test
+- name: tag_1
+  type: tag_list
+  default: []
+  label: tag 1
+  description: this is a tag
 pages:
 - project/index.md
