@@ -18,3 +18,4 @@ fields:
   description: this is a tag
 pages:
 - project/_posts/_post.tags.md
+- project/kubernetes.md
